@@ -170,7 +170,7 @@ section {
 
 /* --- Hero Section --- */
 .hero {
-    background: linear-gradient(135deg, rgba(44, 62, 80, 0.9), rgba(52, 152, 219, 0.8)), url('https://i.imgur.com/gB42tHq.jpeg') no-repeat center center/cover;
+    background: linear-gradient(135deg, rgba(44, 62, 80, 0.9), rgba(52, 152, 219, 0.8)), url('images/time_image2.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 150px 0;
@@ -840,3 +840,4 @@ section {
         grid-template-columns: 1fr;
     }
 }
+
